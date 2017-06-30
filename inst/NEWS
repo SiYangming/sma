@@ -1,0 +1,20 @@
+Package: sma
+============
+
+Version: 0.5.17 [2011-11-30]
+o Added a namespace.
+o Compressed example data using 'R CMD build --resave-data'.
+
+
+Version: 0.5.16 [2010-12-03]
+o PARSE ERROR: A '#' was incorrectly escaped as '\#' in a string.
+o The sma package is no longer supported/maintained.  The last
+  official release was v0.5.15 in Nov 2005, cf. 
+  http://cran.r-project.org/src/contrib/Archive/sma/.
+  The only reason for v0.5.16 is so that it can be used by 
+  users who still use the aroma package.
+
+
+Version: 0.5.15 [2005-11--16]
+o See http://cran.r-project.org/src/contrib/Archive/sma/
+
